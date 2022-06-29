@@ -1,5 +1,5 @@
              "My First Repository!"
 
 My Name is Usman Bin Habib.
-I am the studying AI & DS from Saylani Mass IT.
+I am studying AI & DS from Saylani Mass IT.
 This is my first practise about repositry of GitHub. 
